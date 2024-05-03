@@ -2,19 +2,27 @@
 
 ## Running 
 ```
-python app.py
+python input_practices.py
 ```
-![Vista GAME](mandato.JPG)
+![Vista GAME](vista_inputGame.JPG)
+
+```
+python cuento_ClassesPractices.py
+```
+![Vista Cuento](vista_cuento.JPG)
 
 ### Description
 ```
-*this is a Game tutorial in python that you can practices:
-	* 1 classes
-	* 2 metodos
-	* 3 try except
-	* 4 while
-	* 5 not
-	* 6 if elif else
-	*7 int()
+*this is a easy tutorial in python that you can practices:
 
+	* 1 classes
+	* 2 inheritance
+	* 3 metodos
+	* 4 try except
+	* 5 while
+	* 6 not
+	* 7 if elif else
+	* 8 int()
+	* 9 Dictionaries
+	
 ```
