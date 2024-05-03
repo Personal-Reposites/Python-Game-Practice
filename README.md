@@ -1,19 +1,19 @@
-# Game del Perro Class
+# Tutorial in python (pythonFiles)
 
 ## Running 
 ```
 python input_practices.py
 ```
-![Vista GAME](vista_inputGame.JPG)
+![Vista GAME](IMG/vista_inputGame.JPG)
 
 ```
 python cuento_ClassesPractices.py
 ```
-![Vista Cuento](vista_cuento.jpg)
+![Vista Cuento](IMG/vista_cuento.jpg)
 
 ### Description
 ```
-*this is a easy tutorial in python that you can practices:
+*here you hace some tutorial in python (pythonFiles) that you can practices:
 
 	* 1 classes
 	* 2 inheritance
