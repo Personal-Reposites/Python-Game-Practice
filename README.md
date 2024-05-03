@@ -9,7 +9,7 @@ python input_practices.py
 ```
 python cuento_ClassesPractices.py
 ```
-![Vista Cuento](vista_cuento.JPG)
+![Vista Cuento](vista_cuento.jpg)
 
 ### Description
 ```
