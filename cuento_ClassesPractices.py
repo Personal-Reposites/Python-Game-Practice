@@ -1,46 +1,5 @@
-class Servivo:
-    def __init__(self, name):
-        self.name=name
+from Classes import *  # from clas.py import * es un file no carpeta
 
-    def correr(self):
-        return "corrio"
-
-    def comer(self, objecto):
-        return "comio "+ objecto
-
-    def mirar(self, objecto):
-        return "miro "+objecto
-
-#---------------------------
-class Hombre(Servivo):
-
-    def hablar(self, texto):
-        return texto
-
-    def montar(self, objecto):
-        return "monto en "+ objecto
-
-    def desmontar(self, objecto):
-        return "desmonto de "+ objecto
-
-    def dar(self, objecto):
-        return "dio a "+objecto
-
-#---------------------------
-class Caballo(Servivo):
-    pass
-#---------------------------
-
-class Perro(Servivo):
-    def ladrar(self, objecto):
-        return "ladro jau jau " +objecto
-
-#---------------------------
-class Gato(Servivo):
-    def maulla(self):
-        return "maullo miau miau"
-
-        
 
 #-------|Instancias with NAMES|--------------------
 
