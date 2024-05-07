@@ -1,5 +1,7 @@
-from Classes import *  # from clas.py import * es un file no carpeta
-
+from classes.Perro import *
+from classes.Gato import *
+from classes.Caballo import *
+from classes.Hombre import * 
 
 #-------|Instancias with NAMES|--------------------
 
